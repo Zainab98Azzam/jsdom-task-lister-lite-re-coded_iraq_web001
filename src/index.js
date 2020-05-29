@@ -1,7 +1,7 @@
  
 
 
-const z = document.getElementById("").value
+const z = document.getElementById("new-task-description").value
 const w = document.getElementById("submit")
 var t = document.createTextNode(z);
   var li = document.createElement("li");
