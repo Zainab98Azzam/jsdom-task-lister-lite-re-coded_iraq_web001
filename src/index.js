@@ -1,4 +1,4 @@
- 
+ function newElement() {
 
  var li = document.createElement("li");
 var z = document.getElementById("myInput").value
@@ -9,3 +9,4 @@ li.appendChild(t);
 w.addEventListener('click', function(){
   console.log(z);
   document.getElementById("tasks").appendChild(li);})
+}
