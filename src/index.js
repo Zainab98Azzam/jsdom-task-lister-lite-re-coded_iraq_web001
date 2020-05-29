@@ -9,3 +9,7 @@ li.appendChild(t);
 }
 var w = document.getElementById("submit")
 w.preventDefault();
+
+document.addEventListener("DOMContentLoaded", () => {
+  // your code here
+});
