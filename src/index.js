@@ -10,3 +10,4 @@ w.addEventListener('click', function(){
   document.getElementById("tasks").appendChild(li);
   
 })
+w.prevent
