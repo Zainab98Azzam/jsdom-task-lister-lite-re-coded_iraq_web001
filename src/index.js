@@ -7,5 +7,5 @@ li.appendChild(z);
 w.addEventListener("click", () => {
   document.getElementById("tasks").appendChild(li);
 });
-
+w.Event.preventDefault
 
