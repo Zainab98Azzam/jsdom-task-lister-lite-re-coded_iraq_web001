@@ -7,6 +7,6 @@ var t = document.createTextNode(z);
   var li = document.createElement("li");
 li.appendChild(t);
 w.addEventListener('click', function(){
-  document.getElementById("myUL").appendChild(li);
+  document.getElementById("tasks").appendChild(li);
   
 })
