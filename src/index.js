@@ -4,7 +4,7 @@ const w = document.getElementById("submit")
 
   var li = document.createElement("li");
 li.appendChild(z);
-w.addEventListener("DOMContentLoaded", () => {
+w.addEventListener("click", () => {
   document.getElementById("tasks").appendChild(li);
 });
 
