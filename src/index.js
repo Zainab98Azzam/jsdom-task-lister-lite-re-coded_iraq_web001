@@ -4,8 +4,8 @@
 var z = document.getElementById("myInput").value
 var w = document.getElementById("submit")
 var t = document.createTextNode(z);
- w.preventDefault();
 li.appendChild(t);
 
   document.getElementById("tasks").appendChild(li)
 }
+w.preventDefault();
