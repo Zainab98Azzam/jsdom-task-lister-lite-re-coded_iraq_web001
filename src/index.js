@@ -8,4 +8,4 @@ li.appendChild(t);
   document.getElementById("tasks").appendChild(li)
 }
 var w = document.getElementById("submit")
-w.preventDefault();
+w.preventDefault();ç 
