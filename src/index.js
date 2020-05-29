@@ -7,5 +7,5 @@ var t = document.createTextNode(z);
  
 li.appendChild(t);
 w.addEventListener('click', function(){
-  console.log(z)
+  console.log(z);
   document.getElementById("tasks").appendChild(li);})
