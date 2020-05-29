@@ -6,3 +6,7 @@ const w = document.getElementById("submit")
 var t = document.createTextNode(z);
   var li = document.createElement("li");
 li.appendChild(t);
+w.addEventListener('click', function(){
+  
+  
+})
